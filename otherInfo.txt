@@ -1,4 +1,0 @@
-backend.py on --
-Railway:  GitHub: m.areeb.ahmad@gmail.com
-            Railway Domain: https://library-management-system-using-fastapi-production.up.railway.app
-
