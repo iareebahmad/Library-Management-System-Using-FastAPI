@@ -2,7 +2,7 @@
 import streamlit as st
 import requests
 
-BASE_URL = "http://library-management-system-using-fastapi-production.up.railway.app"
+BASE_URL = "https://8e1b6fpp.up.railway.app"
 
 # Title and Configuration
 st.title("FastAPI Library Management System")
